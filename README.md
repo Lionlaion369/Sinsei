@@ -1,5 +1,5 @@
-# Sinsei
-# 🧠🌍 Sinsei – Aprenda Qualquer Idioma com Sua IA Falante
+# Enos 
+# 🧠🌍 Enos – Aprenda Qualquer Idioma com Sua IA Falante
 
 🔥 Aprenda qualquer idioma em 1 ano com *Sinsei*, sua IA falante que te ensina como um amigo!  
 Rápido, divertido e sem estresse. Até crianças aprendem!  
